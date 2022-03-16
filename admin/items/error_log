@@ -1,0 +1,8 @@
+[26-Jan-2020 11:25:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31
+[26-Jan-2020 11:26:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31
+[26-Jan-2020 11:26:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31
+[26-Jan-2020 11:34:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31
+[26-Jan-2020 11:34:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31
+[26-Jan-2020 11:34:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31
+[26-Jan-2020 11:37:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31
+[26-Jan-2020 11:37:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/items/function.php on line 31

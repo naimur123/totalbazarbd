@@ -1,0 +1,2 @@
+[20-Jan-2020 16:29:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/hotdeals/function.php on line 31
+[20-Jan-2020 16:33:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/totalbazarbd/public_html/admin/hotdeals/function.php on line 31
